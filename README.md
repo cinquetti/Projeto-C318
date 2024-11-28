@@ -4,6 +4,8 @@
   <img src="./images/Credit-cards.jpg" alt="Credit Cards" width="600px">
 </p>
 
+Participantes do Projeto: Lucas Cinquetti Moreira, Carl Betsa Costa, Arthur de Paula Assis e Raphael Henrique de Oliveira Centenário 
+
 ## **Sobre o Projeto**
 Este projeto utiliza o famoso dataset `Creditcard.csv`, que contém dados de várias transações bancárias realizadas em bancos europeus. O objetivo é detectar fraudes e anomalias nessas transações usando uma combinação de técnicas de aprendizado de máquina supervisionadas e não supervisionadas.
 
@@ -79,4 +81,7 @@ Ao final, geramos um **mapa de calor** que demonstra a distribuição de falsos 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-repositorio/projeto-c318.git
+2. Execute rode o notebook
+    ```bash
+    jupyter notebook Projeto.ipynb
 
