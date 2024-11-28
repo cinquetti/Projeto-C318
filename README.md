@@ -4,7 +4,7 @@
   <img src="./images/Credit-cards.jpg" alt="Credit Cards" width="600px">
 </p>
 
-Participantes do Projeto: Lucas Cinquetti Moreira, Carl Betsa Costa, Arthur de Paula Assis e Raphael Henrique de Oliveira Centenário 
+**Participantes do Projeto:** Lucas Cinquetti Moreira, Carl Betsa Costa, Arthur de Paula Assis e Raphael Henrique de Oliveira Centenário 
 
 ## **Sobre o Projeto**
 Este projeto utiliza o famoso dataset `Creditcard.csv`, que contém dados de várias transações bancárias realizadas em bancos europeus. O objetivo é detectar fraudes e anomalias nessas transações usando uma combinação de técnicas de aprendizado de máquina supervisionadas e não supervisionadas.
@@ -62,7 +62,7 @@ Utilizamos as métricas **Precision** (precisão) e **Recall** (revocação) par
   <img src="./images/PandR.png" alt="Precision and Recall" width="600px">
 </p>
 
-Ao final, geramos um **mapa de calor** que demonstra a distribuição de falsos positivos, falsos negativos, verdadeiros positivos e verdadeiros negativos.
+Ao final, geramos uma **matriz de decisão** que demonstra a distribuição de falsos positivos, falsos negativos, verdadeiros positivos e verdadeiros negativos.
 
 <p align="center">
   <img src="./images/PandR2.png" alt="Mapa de Calor de Avaliação" width="600px">
@@ -81,7 +81,7 @@ Ao final, geramos um **mapa de calor** que demonstra a distribuição de falsos 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-repositorio/projeto-c318.git
-2. Execute rode o notebook
+2. Execute o notebook:
     ```bash
     jupyter notebook Projeto.ipynb
 
