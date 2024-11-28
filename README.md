@@ -1,4 +1,4 @@
-# **Projeto-C318: Detecção de Fraudes e Anomalias com Modelos Semi-Supervisionados** 🚨💳
+# **Projeto-C318: Detecção de Fraudes e Anomalias com um Modelo Semi-Supervisionado** 🚨💳
 
 <p align="center">
   <img src="./images/Credit-cards.jpg" alt="Credit Cards" width="600px">
